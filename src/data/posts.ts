@@ -214,7 +214,7 @@ export const posts: Post[] = [
   },
   {
     "id": "9",
-    "username": "beautyeva.ai",
+    "username": "c",
     "userImage": "https://i.ibb.co/4ZhTy0TC/8.jpg",
     "location": "Malibu Beach, CA",
     "media": {
